@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("Merge conflict between feature and main is solved!!\n")
+    printf("Merge conflict between feature and main is solved!!\n");
     return 0;
 }
