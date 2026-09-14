@@ -2,7 +2,6 @@
 
 int main()
 {
-    // @TODO: print a sentence you want.
-    printf("Hello, Fudan University in the main branch!\n");
+    printf("Merge conflict between feature and main is solved!!\n")
     return 0;
 }
